@@ -7,7 +7,7 @@ function mostrar()
 	let dato; // declaro una variable
 	
 	// asignacion de una variable
-	dato = prompt("Ingrese su nombre"); // inicializo la variable nombre con la cadena "Juan"
+	dato = prompt("Ingrese su nombre"); // inicializo la variable
 
 	alert(dato);
 }
